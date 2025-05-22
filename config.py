@@ -1,5 +1,5 @@
 # Токен бота (получить у @BotFather)
-BOT_TOKEN = "7437077564:AAHTNMgULVqbjfaXMmWohIcQ8Tpca8W45Ms"
+BOT_TOKEN = "7437077564:AAGvd7xeLzdlYq8EUkhuSxNcpwC9eg2l0_M"
 
 # URL афиши театра
 THEATER_URL = "https://quicktickets.ru/dzerjinsk-dramteatr"
